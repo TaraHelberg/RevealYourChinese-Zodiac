@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Akshar:wght@300&family=Shadows+Into+Light&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/*general body style*/
+body {
+    font-family:'Acme', sans-serif;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 400;
+}
+
+/*Page Header Style*/
+h1 {
+    font-size: 3em;
+    color: red;
+    text-align: center;
+    padding: 0.5em;    
+}
+
+/*Subtitle Header Style*/
+h2 {
+    font-size: 2em;
+    color: red;    
+    padding: 0.5em;
+}
